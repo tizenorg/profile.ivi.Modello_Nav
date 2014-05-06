@@ -1,3 +1,6 @@
+* Tue May 06 2014 brianjjones <brian.j.jones@intel.com> submit/tizen/20140404.163942@d276446
+- Updated to work with Crosswalk.  TIVI-3079
+
 * Thu Apr 03 2014 brianjjones <brian.j.jones@intel.com> 9a96c32
 - Initial checkin of the Modello Navigation app
 

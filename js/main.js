@@ -708,6 +708,8 @@ $(document).ready(function () {
 			zoom: 18
 		};
 
+		//BJONES TODO setup a timer in google.maps so that if it takes longer than 30 seconds... bail.
+
 		map = new google.maps.Map(document.getElementById("map_div"), options);
 
 		startNavigation();
