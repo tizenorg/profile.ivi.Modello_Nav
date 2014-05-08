@@ -4,7 +4,7 @@
     <tizen:application id="Modello008.Nav" package="Modello008" required_version="2.1"/>
     <content src="index.html"/>
     <icon src="icon.png"/>
-    <name>Navigation</name>
+    <name>Modello Navigation</name>
     <tizen:privilege name="http://tizen.org/privilege/application.launch"/>
 	<tizen:privilege name="http://tizen.org/privilege/filesystem.read"/>
     <tizen:privilege name="http://tizen.org/privilege/filesystem.write"/>
