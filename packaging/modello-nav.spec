@@ -26,3 +26,4 @@ rm -rf %{buildroot}
 %files
 %defattr(-,root,root,-)
 /opt/usr/apps/.preinstallWidgets/Modello_Nav.wgt
+/opt/usr/apps/_common/icons/Navigation_icon.png

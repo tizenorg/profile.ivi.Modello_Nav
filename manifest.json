@@ -1,0 +1,12 @@
+{
+  "name": "Modello Navigation",
+  "version": "0.0.2",
+  "app": {
+    "launch":{
+      "local_path": "index.html"
+    }
+  },
+  "icons": {
+    "128": "Navigation_icon.png"
+  }
+}
