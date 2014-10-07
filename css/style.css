@@ -1,3 +1,9 @@
+@viewport{
+        width: 720px;
+        height: 1280px;
+        user-zoom: fixed;
+}
+
 .placesLibraryContentList .placesElement {
 	padding: 10px 0 10px 0;
 	height: 70px;
