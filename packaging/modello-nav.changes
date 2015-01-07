@@ -1,3 +1,6 @@
+* Tue Jan 06 2015 Brian Jones <brian.j.jones@intel.com> submit/tizen_ivi/20141008.200057-1-g5309e88
+- Updating manifest file to specify Murphy role - TC-1731
+
 * Tue Oct 07 2014 Brian Jones <brian.j.jones@intel.com> submit/tizen_ivi/20141007.174646-1-g73c5bf8
 - Updating packaging to remove hard coded paths
 - clean the spec file
